@@ -10,21 +10,40 @@
 
 <body>
     <header>
-    <div class="nav">
-        <ul>
-            <li><a href="">Home</a></li>
-            <li><a href="">Movies</a></li>
-            <li><a href="">Genres</a></li>
-        </ul>
-        <div class="user">
-            <a href=>Login</a>
-            <a href=>Add Movie</a>
+        <div class="brand">
+          <span class="fab fa-github"></span>
+          <h1>iFlix</h1>
         </div>
-    </div>
-</header>
-
-
-
+        <span class="fas fa-bars" id="menuIcon" onclick="toggle()"></span>
+        <div class="navbar" id="nav">
+          <div class="searchBox">
+            <input type="text" placeholder="Search here..." />
+            <span class="fas fa-search" id="searchIcon"></span>
+          </div>
+          <ul>
+            <li>
+              <span class="fas fa-home" id="headIcon"></span>
+              <a href="#"> Home </a>
+            </li>
+            <li>
+              <span class="fa fa-user-circle" id="headIcon"></span>
+              <a href="#"> Movies </a>
+            </li>
+            <li>
+              <span class="fas fa-question-circle" id="headIcon"></span>
+              <a href="#"> Genres </a>
+            </li>
+            <li>
+              <span class="fas fa-lock" id="headIcon"></span>
+              <a href="#"> Add Movie </a>
+            </li>
+            <li>
+              <span class="fas fa-sign-out" id="headIcon"></span>
+              <a href="#"> Account </a>
+            </li>
+          </ul>
+        </div>
+      </header>
 
     <div class="banner-card">
         <img src="https://i.ytimg.com/vi/32RAq6JzY-w/maxresdefault.jpg">
