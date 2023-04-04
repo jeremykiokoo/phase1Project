@@ -1,0 +1,131 @@
+body{
+    background-color: #1e1f26;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    width: 100%;
+}
+
+.nav ul{
+    display: flex;
+}
+
+.nav ul li{
+    list-style: none;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    padding: 0px 20px;
+    color: white;
+    font-size: 30px;
+    right: 50%;
+}
+
+.nav ul li a:hover{
+    color: red;
+    font-weight: bolder;
+}
+
+.user{
+    cursor: pointer;
+    color: red;
+    margin-top: 40px;
+    margin-right: 40px;
+}
+.banner-card{
+    position: relative;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+    
+}
+
+.banner-card img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px 50px 30px 20px;
+}
+
+.banner-card:hover .banner-text{
+    left: 0;
+}
+
+.banner-text{
+    color: white;
+    position: absolute;
+    top: 0;
+    padding: 120px;
+    left: -100%;
+    transition: 1s;
+    backdrop-filter: blur(5px);
+    height: 100%;
+    width: 100%;
+}
+
+.banner-text h4{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.rating {
+    display: inline-block;
+    font-size: 0;
+    position: relative;
+    text-transform: capitalize;
+    padding: 0 20px 8%;
+    color: gray;
+}
+    
+label{
+    float: right;
+    padding: 0;
+    font-size: 35px;
+    cursor: pointer;
+}   
+
+label::before{
+    content: "\2606";
+    padding-bottom: 8px;
+    display: inline-block;
+    transition: 0.2s;
+} 
+
+span{
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 90px;
+    font-size: 1rem;
+    white-space: nowrap;
+    transition: 0.15s ease-out;
+    pointer-events: none;
+    letter-spacing: -2px;
+    transform: translateY(-50%);
+} 
+
+label:hover span{
+    opacity: 1;
+    transform: none;
+    letter-spacing: 0;
+}
+
+input:checked ~ label::before{
+    content: "\2605";
+    color: orange;
+    filter: drop-shadow(0 0 4px);
+    transform: rotate(.2turn);
+    transition-delay: calc(0.1 * attr(data-idx integer));
+}
+
+

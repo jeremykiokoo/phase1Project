@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>iFlix</title>
+</head>
+
+<body>
+    <header>
+    <div class="nav">
+        <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">Movies</a></li>
+            <li><a href="">Genres</a></li>
+        </ul>
+        <div class="user">
+            <a href=>Login</a>
+            <a href=>Add Movie</a>
+        </div>
+    </div>
+</header>
+
+
+
+
+    <div class="banner-card">
+        <img src="https://i.ytimg.com/vi/32RAq6JzY-w/maxresdefault.jpg">
+        <div class="banner-text">
+            <h4>Fast X</h4>
+            <p>Over many missions and against impossible odds, Dom Toretto and his family have outsmarted and outdriven<br>
+                every foe in their path. Now, they must confront the most lethal opponent they've ever faced. Fueled by revenge,<br> 
+                a terrifying threat emerges from the shadows of the past to shatter Dom's world<br>
+                and destroy everything and everyone he loves.</p>
+        </div>
+
+        <form>
+            <div class="rating">
+              <input type='radio' hidden name='rate' id='rating-opt5' data-idx='0'>	
+              <label for='rating-opt5'><span>Very satisfied</span></label>
+         
+              <input type='radio' hidden name='rate' id='rating-opt4' data-idx='1'>
+              <label for='rating-opt4'><span>Somewhat satisfied</span></label>
+         
+              <input type='radio' hidden name='rate' id='rating-opt3' data-idx='2'>
+              <label for='rating-opt3'><span>Neutral</span></label>
+         
+              <input type='radio' hidden name='rate' id='rating-opt2' data-idx='3'>
+              <label for='rating-opt2'><span>Dissatisfied</span></label>
+         
+              <input type='radio' hidden name='rate' id='rating-opt1' data-idx='4'>
+              <label for='rating-opt1'><span>Very Dissatisfied</span></label>
+            </div>
+         </form>
+    </div>
+</body>
+
+    <div id ="root"></div>
+    <script src="index.js"></script>
+</html>

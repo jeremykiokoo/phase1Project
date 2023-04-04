@@ -1,0 +1,96 @@
+{
+    "Movies": [
+      {
+        "id": 1,
+        "name": "Fast X",
+        "image": "https://i.ytimg.com/vi/32RAq6JzY-w/maxresdefault.jpg",
+        "likes": 8
+        
+      },
+      {
+        "id": 2,
+        "name": "John Wick: Chapter 4",
+        "image": "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/02/John-Wick-Chapter-4-Header.jpg?fit=1928%2C1088&ssl=1",
+        "likes": 14
+      },
+      {
+        "id": 3,
+        "name": "Murder Mystery 2",
+        "image": "https://www.kakuchopurei.com/wp-content/uploads/2023/03/MURDER-MYSTERY-2-_-Key-Art-1.jpg",
+        "likes": 14
+      },
+      {
+        "id": 4,
+        "name": "The Gray Man",
+        "image": "https://ntvb.tmsimg.com/assets/p21562309_v_h8_aa.jpg?w=1280&h=720",
+        "likes": 14
+      },
+      {
+        "id": 5,
+        "name": "The Boys",
+        "image": "https://eloutput.com/wp-content/uploads/2020/06/the-boys.jpg",
+        "likes": 14
+      },
+      {
+        "id": 6,
+        "name": "You(TV Show2018-2024)",
+        "image": "https://ntvb.tmsimg.com/assets/p14418847_b_h8_aj.jpg?w=960&h=540",
+        "likes": 14
+      },
+      {
+        "id": 7,
+        "name": "The Last Of Us",
+        "image": "https://images.hindustantimes.com/img/2023/01/17/1600x900/the-last-of-us_1673950903838_1673950904021_1673950904021.webp",
+        "likes": 14
+      },
+      {
+        "id": 8,
+        "name": "Creed III",
+        "image": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2023/03/creed-iii-movie-review-1.jpg",
+        "likes": 14
+      },
+      {
+        "id": 9,
+        "name": "Breaking Bad",
+        "image": "https://ntvb.tmsimg.com/assets/p8696131_b_h10_aa.jpg?w=960&h=540",
+        "likes": 14
+      },
+      {
+        "id": 10,
+        "name": "Top-Gun Maverick(2022)",
+        "image": "https://imgmedia.larepublica.pe/1200x660/larepublica/original/2022/05/27/62912cceac9b05033275b585.jpg",
+        "likes": 14
+      },
+      {
+        "id": 11,
+        "name": "Uncharted(2022)",
+        "image": "https://sportshub.cbsistatic.com/i/2022/01/13/8417257c-cf55-4e2d-83fe-cf9b00887497/uncharted-movie.jpg",
+        "likes": 14
+      },
+      {
+        "id": 12,
+        "name": "The Adam Project",
+        "image": "https://ntvb.tmsimg.com/assets/p21396488_v_h8_aa.jpg?w=960&h=540",
+        "likes": 14
+      },
+      {
+        "id": 13,
+        "name": "The Man from Toronto",
+        "image": "https://cdn.theplaylist.net/wp-content/uploads/2022/06/01100311/man-from-toronto.jpg",
+        "likes": 14
+      },
+      {
+        "id": 14,
+        "name": "Black Adam 2022",
+        "image": "https://ntvb.tmsimg.com/assets/p19738510_v_h8_ag.jpg?w=1280&h=720",
+        "likes": 14
+      },
+      {
+        "id": 15,
+        "name": "Morbius",
+        "image": "https://hbomax-images.warnermediacdn.com/images/GYrMgSgrVpJbCMgEAAAAC/tileburnedin?size=1280x720&partner=hbomaxcom&v=a04deb782903288aa08098d1faaa26cb&host=art-gallery.api.hbo.com&language=en-us&w=1280",
+        "likes": 14
+      }
+
+    ]
+  }
