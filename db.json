@@ -4,90 +4,105 @@
         "id": 1,
         "name": "Fast X",
         "image": "https://i.ytimg.com/vi/32RAq6JzY-w/maxresdefault.jpg",
+        "about": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted and outdriven every foe in their path. Now, they must confront the most lethal opponent they've ever faced. Fueled by revenge, a terrifying threat emerges from the shadows of the past to shatter Dom's world and destroy everything and everyone he loves",
         "likes": 8
       },
       {
         "id": 2,
         "name": "John Wick: Chapter 4",
         "image": "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/02/John-Wick-Chapter-4-Header.jpg?fit=1928%2C1088&ssl=1",
+        "about": "With the price on his head ever increasing, legendary hit man John Wick takes his fight against the High Table global as he seeks out the most powerful players in the underworld, from New York to Paris to Japan to Berlin.",
         "likes": 14
       },
       {
         "id": 3,
         "name": "Murder Mystery 2",
         "image": "https://www.kakuchopurei.com/wp-content/uploads/2023/03/MURDER-MYSTERY-2-_-Key-Art-1.jpg",
+        "about": "Now private detectives launching their own agency, Nick and Audrey Spitz land at the centre of an international investigation when a friend is abducted.",
         "likes": 14
       },
       {
         "id": 4,
         "name": "The Gray Man",
         "image": "https://ntvb.tmsimg.com/assets/p21562309_v_h8_aa.jpg?w=1280&h=720",
+        "about": "When the CIA's top asset -- his identity known to no one -- uncovers agency secrets, he triggers a global hunt by assassins set loose by his ex-colleague.",
         "likes": 14
       },
       {
         "id": 5,
         "name": "The Boys",
         "image": "https://eloutput.com/wp-content/uploads/2020/06/the-boys.jpg",
+        "about": "The Boys is set in a universe where super-powered individuals are recognized as heroes by the general public and work for a powerful corporation known as Vought International, which markets and monetizes them.",
         "likes": 14
       },
       {
         "id": 6,
         "name": "You(TV Show2018-2024)",
         "image": "https://ntvb.tmsimg.com/assets/p14418847_b_h8_aj.jpg?w=960&h=540",
+        "about": " A dangerously charming, intensely obsessive young man who goes to extreme measures to insert himself into the lives of those he is transfixed by",
         "likes": 14
       },
       {
         "id": 7,
         "name": "The Last Of Us",
         "image": "https://images.hindustantimes.com/img/2023/01/17/1600x900/the-last-of-us_1673950903838_1673950904021_1673950904021.webp",
+        "about": "Based on the 2013 video game developed by Naughty Dog, the series is set in 2023, twenty years into a pandemic caused by a mass fungal infection, which causes its hosts to transform into zombie-like creatures and collapses society.",
         "likes": 14
       },
       {
         "id": 8,
         "name": "Creed III",
         "image": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2023/03/creed-iii-movie-review-1.jpg",
+        "about": "Still dominating the boxing world, Adonis Creed is thriving in his career and family life. When Damian, a childhood friend and former boxing prodigy resurfaces after serving time in prison, he's eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damian  a fighter who has nothing to lose.",
         "likes": 14
       },
       {
         "id": 9,
         "name": "Breaking Bad",
         "image": "https://ntvb.tmsimg.com/assets/p8696131_b_h10_aa.jpg?w=960&h=540",
+        "about": "A struggling high school chemistry teacher, Walter White (Bryan Cranston), is diagnosed with inoperable, advanced lung cancer. On a ride along with his DEA agent brother-in-law Hank Schrader (Dean Norris), Walter sees a former student of his, Jesse Pinkman (Aaron Paul), fleeing the scene of a meth lab.",
         "likes": 14
       },
       {
         "id": 10,
         "name": "Top-Gun Maverick(2022)",
         "image": "https://imgmedia.larepublica.pe/1200x660/larepublica/original/2022/05/27/62912cceac9b05033275b585.jpg",
+        "about": "After more than 30 years of service as one of the Navy's top aviators, Pete (Maverick) Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it.",
         "likes": 14
       },
       {
         "id": 11,
         "name": "Uncharted(2022)",
         "image": "https://sportshub.cbsistatic.com/i/2022/01/13/8417257c-cf55-4e2d-83fe-cf9b00887497/uncharted-movie.jpg",
+        "about": "Treasure hunter Victor (Sully) Sullivan recruits street-smart Nathan Drake to help him recover a 500-year-old lost fortune amassed by explorer Ferdinand Magellan. What starts out as a heist soon becomes a globe-trotting, white-knuckle race to reach the prize before the ruthless Santiago Moncada can get his hands on it. If Sully and Nate can decipher the clues and solve one of the world's oldest mysteries, they stand to find $5 billion in treasure -- but only if they can learn to work together.",
         "likes": 14
       },
       {
         "id": 12,
         "name": "The Adam Project",
         "image": "https://ntvb.tmsimg.com/assets/p21396488_v_h8_aa.jpg?w=960&h=540",
+        "about": "Time-travelling fighter pilot Adam Reed teams up with his 12-year-old self for a mission to save the future after unintentionally crash landing in 2022.",
         "likes": 14
       },
       {
         "id": 13,
         "name": "The Man from Toronto",
         "image": "https://cdn.theplaylist.net/wp-content/uploads/2022/06/01100311/man-from-toronto.jpg",
+        "about": "A case of mistaken identity forces a bumbling entrepreneur to team up with a notorious assassin in hopes of staying alive.",
         "likes": 14
       },
       {
         "id": 14,
         "name": "Black Adam 2022",
         "image": "https://ntvb.tmsimg.com/assets/p19738510_v_h8_ag.jpg?w=1280&h=720",
+        "about": "In ancient Kahndaq, Teth Adam was bestowed the almighty powers of the gods. After using these powers for vengeance, he was imprisoned, becoming Black Adam. Nearly 5,000 years have passed, and Black Adam has gone from man to myth to legend. Now free, his unique form of justice, born out of rage, is challenged by modern-day heroes who form the Justice Society: Hawkman, Dr. Fate, Atom Smasher and Cyclone.",
         "likes": 14
       },
       {
         "id": 15,
         "name": "Morbius",
         "image": "https://hbomax-images.warnermediacdn.com/images/GYrMgSgrVpJbCMgEAAAAC/tileburnedin?size=1280x720&partner=hbomaxcom&v=a04deb782903288aa08098d1faaa26cb&host=art-gallery.api.hbo.com&language=en-us&w=1280",
+        "about": "Dangerously ill with a rare blood disorder and determined to save others from the same fate, Dr. Morbius attempts a desperate gamble. While at first it seems to be a radical success, a darkness inside of him is soon unleashed.",
         "likes": 14
       }
 

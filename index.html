@@ -14,11 +14,9 @@
           <span class="fab fa-github"></span>
           <h1>iFlix</h1>
         </div>
-        <span class="fas fa-bars" id="menuIcon" onclick="toggle()"></span>
-        <div class="navbar" id="nav">
           <div class="searchBox">
             <input type="text" placeholder="Search here..." />
-            <span class="fas fa-search" id="searchIcon"></span>
+            <span class="fas fa-search" id="searchIcon" onclick="search()"></span>
           </div>
           <ul>
             <li>
@@ -30,29 +28,21 @@
               <a href="#"> Movies </a>
             </li>
             <li>
-              <span class="fas fa-question-circle" id="headIcon"></span>
-              <a href="#"> Genres </a>
-            </li>
-            <li>
-              <span class="fas fa-lock" id="headIcon"></span>
-              <a href="#"> Add Movie </a>
-            </li>
-            <li>
-              <span class="fas fa-sign-out" id="headIcon"></span>
-              <a href="#"> Account </a>
             </li>
           </ul>
         </div>
       </header>
 
-    <div class="banner-card">
+    <div class="banner-card" id="banner-card">
         <img src="https://i.ytimg.com/vi/32RAq6JzY-w/maxresdefault.jpg">
         <div class="banner-text">
             <h4>Fast X</h4>
             <p>Over many missions and against impossible odds, Dom Toretto and his family have outsmarted and outdriven<br>
                 every foe in their path. Now, they must confront the most lethal opponent they've ever faced. Fueled by revenge,<br> 
                 a terrifying threat emerges from the shadows of the past to shatter Dom's world<br>
-                and destroy everything and everyone he loves.</p>
+                and destroy everything and everyone he loves.</p> 
+                    <button>Update</button>
+                    <button>Remove </button>
         </div>
 
         <form>
@@ -76,6 +66,6 @@
     </div>
 </body>
 
-    <div id ="root"></div>
+    <div id ='root'></div>
     <script src="index.js"></script>
 </html>

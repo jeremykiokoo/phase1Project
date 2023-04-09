@@ -1,10 +1,11 @@
 *{
-    margin: 0%;
-    padding:0%;
+    margin: 0;
+    padding: 0;
 }
+
 body{
     background-color: #1e1f26;
-    overflow: hidden;
+    overflow: auto;
 }
 
 header {
@@ -166,12 +167,13 @@ ul li a:active,
     overflow: hidden;
     align-items: center;
     justify-content: center;
-    margin: 110px;   
+    /*left: 20px;*/
+    padding-left: 20px;
 }
 
 .banner-card img{
-    max-width: 100%;
-    height: auto;
+    max-width: 1000px;
+    height: 100%;
     border-radius: 15px 50px 30px 20px;
 }
 
@@ -253,4 +255,15 @@ input:checked ~ label::before{
     transition-delay: calc(0.1 * attr(data-idx integer));
 }
 
+button{
+  position: relative;
+	padding: 16px;
+	background-color: rgb(75, 75, 75);
+  color: rgb(0, 0, 0);
+	border-radius: 16px;
+	top: 200px;
+	left: 600px;
+	width: 100px;
+  font-size: 15px;
+}
 
