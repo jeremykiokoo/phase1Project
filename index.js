@@ -12,6 +12,7 @@ card +=  `<div class="banner-card">
 <img src=${Movies.image} alt="https://i.ytimg.com/vi/32RAq6JzY-w/maxresdefault.jpg">
 <div class="banner-text">
     <h4>${Movies.name}</h4>
+    <p>${Movies.about}<p>
 </div>`
 card += `<div class="rating">
   <input type='radio' hidden name='rate' id='rating-opt5' data-idx='0'>	
